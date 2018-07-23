@@ -6,7 +6,7 @@ theme = "aerial"
 [params]
   name = "Lucas de Araújo Soares"
   about = "2° Oficial de Náutica &nbsp;&bull;&nbsp; Desenvolvedor &nbsp;&bull;&nbsp; Co-fundador <a href='http://radiocipo.com.br/'>Rádio Cipó</a>"
-  copyright = "Untitled"
+  copyright = "doLucas"
   #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
   bg_scroll = ""
   favicon = "favicon.ico"
