@@ -1,6 +1,6 @@
 languageCode = "pt-br"
 title = "Lucas Landing"
-baseurl = "http://example.org/"
+baseurl = "https://lucasasoares.github.io/"
 theme = "aerial"
 
 [params]
