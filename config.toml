@@ -1,0 +1,37 @@
+languageCode = "pt-br"
+title = "Lucas Landing"
+baseurl = "http://example.org/"
+theme = "aerial"
+
+[params]
+  name = "Lucas de Araújo Soares"
+  about = "2° Oficial de Náutica &nbsp;&bull;&nbsp; Desenvolvedor &nbsp;&bull;&nbsp; Co-fundador <a href='http://radiocipo.com.br/'>Rádio Cipó</a>"
+  copyright = "Untitled"
+  #Disable the scrolling background by entering any string for bg_scroll. Enable by leaving bg_scroll empty.
+  bg_scroll = ""
+  favicon = "favicon.ico"
+
+[[params.social]]
+  medium = "Info"
+  icon = "info"
+  link = "https://lucascv.herokuapp.com"
+
+[[params.social]]
+  medium = "Telegram"
+  icon = "telegram"
+  link = "https://t.me/lucasdes"
+
+[[params.social]]
+  medium = "Linkedin"
+  icon = "linkedin"
+  link = "https://www.linkedin.com/in/lucas-ara%C3%BAjo-693a66135/"
+
+[[params.social]]
+  medium = "Github"
+  icon = "github"
+  link = "https://github.com/lucasasoaresmar"
+
+[[params.social]]
+  medium = "Email"
+  icon = "envelope-o"
+  link = "mailto:lucasa.soaresmar@gmail.com?subject=Oi,%20Lucas!"
